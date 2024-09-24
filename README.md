@@ -4,7 +4,8 @@ Este vídeo destaca o impacto das IAs Generativas na automação de tarefas e na
 
 <video width="560" height="315" controls>
   <source src="IAGenerativa.mp4" type="video/mp4">  
-  <a href="https://g10van1.github.io/deepfake-video/">Vídeo</a>
 </video>
+
+<a href="https://g10van1.github.io/deepfake-video/">Vídeo</a>
 
 #### [Texto do Vídeo](Texto.md)
